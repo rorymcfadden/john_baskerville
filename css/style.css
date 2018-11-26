@@ -1,0 +1,128 @@
+/* ------ CSS RESET ------ */
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+    }
+
+/* --------- MAIN STYLING ----------- */
+    
+body {
+    width: 75%;
+    max-width: 670px;
+    margin: auto;
+    background: #fafafa;
+    color: #333;
+}
+
+/*----------- TYPOGRAPHY ----------------*/
+h1, h2, h3 {
+    font-weight: normal;
+    color: #c06;
+    text-align: center;
+}
+
+
+p, li, blockquote {
+    margin-bottom: 1.5;
+    line-height: 1.4
+}
+
+h1{
+    font-size: 3.988em;
+    margin-top: 1em;
+    margin-bottom: 0.5em
+}
+
+h2 {
+    font-size 2.827em;
+    margin-top: 1em;
+    margin-bottom: 0.1em
+    }
+
+h3 {
+    font-size: 1.999em;
+    margin-top: 1em;
+    margin-bottom: 0.1em;
+}
+
+blockquote {
+    hanging-punctuation: first;
+    text-indent: -0.5em
+}
+
+header h2{
+    font-style: italic;
+    font-size: 2.35em;
+    margin-top:  0.2em;
+    color: #333
+}
+
+
+/*---------- STYLING LINKS ----------*/
+
+A {
+    color: #c06;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: #006341;
+    border-bottom: 1px dotted
+}
+
+nav {
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #c666;
+    padding: 1em 0;
+    font-size: 0.75em
+    
+    
+}
+
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px
+}
+
+nav a:link {color: #fff}
+
+nav a:visited {color: darkorange}
+
+nav a:hover {border-bottom: none;
+color: #000}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
