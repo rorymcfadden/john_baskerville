@@ -15,6 +15,7 @@ body {
     margin: auto;
     background: #fafafa;
     color: #333;
+    font font-family: 'Libre Baskerville', serif;
 }
 
 /*----------- TYPOGRAPHY ----------------*/
@@ -75,6 +76,7 @@ a:hover {
 }
 
 nav {
+    position: fixed;
     top: 0;
     left: 0;
     margin: 0;
@@ -82,8 +84,6 @@ nav {
     background-color: #c666;
     padding: 1em 0;
     font-size: 0.75em
-    
-    
 }
 
 
@@ -105,10 +105,46 @@ nav a:visited {color: darkorange}
 nav a:hover {border-bottom: none;
 color: #000}
 
+/*-- BLOCKQUOTE --*/
 
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.75em;
+    line-height: 1.3;
+    color: #777;
+}
 
+blockquote cite {
+    font-size: 0.75em;
+}
 
+/*---- IMAGES -----*/
 
+img {
+    display:block;
+    margin: 4em auto;
+    padding: 0;
+    max-width: 100%
+}
+
+/*---------- FOOTER -------------*/
+
+footer{
+    text-align: center;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    padding: 2em 0
+        
+}
+
+hr {
+    margin: 1em o;
+    height: 1px;
+    background color: #333;
+    color: #333;
+    border: 0 none
+        
+}
 
 
 
