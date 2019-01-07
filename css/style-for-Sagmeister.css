@@ -14,15 +14,15 @@ body {
     max-width: 670px;
     margin: auto;
     background: #fafafa;
-    color: #333;
-    font font-family: 'Libre Baskerville', serif;
+    color:black;
+    font font-family: 'staatliches', serif;
 }
 
 /*----------- TYPOGRAPHY ----------------*/
 h1, h2, h3 {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'staatliches', serif;
     font-weight: normal;
-    color: #c06;
+    color:darkorange ;
     text-align: center;
 }
 
@@ -179,61 +179,6 @@ th, td {
 table, td {background: #d1d1d1;
 border: 2px solid #fff;
 }
-
-.connections {
-    position: relative;
-    margin: 0 auto;
-    margin: 20px, 0;
-}
-
-connections ul {
-    margin: 0;
-    padding: 0;
-}
-.connections li {
-    margin: 0 15px;
-    padding: 0;
-    list-style: none;
-    display: inline-block;
-}
-
-connections a:link {
-    border-bottom: none;
-}
-
-.connections img {
-    opacity: 0.5;
-    border: none;
-}
- 
-.connections a:hover img {
-    opacity: 1.0;
-    border-bottom: none;
-    transition:all 0.3s ease-in-out
-        transform:scale(2);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
