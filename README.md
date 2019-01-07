@@ -31,9 +31,9 @@ Monday 28th October
 - [History of Type 4](https://rorymcfadden.github.io/john_baskerville/brief-history-of-type4.html)
 
 ### 2 December 2018 
-- [History of Type 5](https://rorymcfadden.github.io/john_baskerville/baskerville1.html/brief-history-of-type5.html)
+- [History of Type 5](https://rorymcfadden.github.io/john_baskerville/brief-history-of-type5.html)
 
 # Designer Essay
 
 ### Stefan Segmeister 
-- [Segmister Website](https://rorymcfadden.github.io/john_baskerville/baskerville1.html/stefan-sagmeister.html)
+- [Segmister Website](https://rorymcfadden.github.io/john_baskerville/stefan-sagmeister.html)
