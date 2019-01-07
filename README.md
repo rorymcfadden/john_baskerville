@@ -13,9 +13,10 @@ Monday 28th October
 [John Baskerville 04](https://rorymcfadden.github.io/john_baskerville/baskerville4.html)
 
 ### 26 Novermber 2018
-[John Baskerville 05](https://github.com/rorymcfadden/john_baskerville/blob/gh-pages/baskerville5.html)
+[John Baskerville 05](https://rorymcfadden.github.io/john_baskerville/baskerville5.html)
+
 ### 2 December 2018
-[John Baskerville 06](https://github.com/rorymcfadden/john_baskerville/blob/gh-pages/baskerville6.html)
+[John Baskerville 06](https://rorymcfadden.github.io/john_baskerville/baskerville6.html)
 
 # Brief History of Type
 ### 05 Novermber 2018
