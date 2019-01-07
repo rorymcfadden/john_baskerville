@@ -139,13 +139,16 @@ footer{
 }
 
 hr {
-    margin: 1em o;
+    margin: 1em;
     height: 1px;
     background color: #333;
     color: #333;
     border: 0 none
         
 }
+
+/*---- ADDING MEDIA COVERS ---------------*/
+
 
 
 /*---------------------- table ----------------*/
