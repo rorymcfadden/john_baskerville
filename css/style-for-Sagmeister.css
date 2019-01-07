@@ -15,12 +15,12 @@ body {
     margin: auto;
     background: #E6DEDD
     color:black;
-    font-family: 'Staatliches', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /*----------- TYPOGRAPHY ----------------*/
 h1, h2, h3 {
-    font-family: 'Staatliches', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-weight: normal;
     color: #8F1D14 ;
     text-align: center;
